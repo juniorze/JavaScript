@@ -13,8 +13,7 @@ uf: "SP"
 };
 ```
 Retorne o seguinte conteúdo:
-O usuário mora em São Paulo / SP, no bairro Centro, na rua "Rua dos Pinheiros" com
-no 1293.
+O usuário mora em São Paulo / SP, no bairro Centro, na rua "Rua dos Pinheiros", nº 1293.
 ### 2º exercício
 Crie uma função que dado um intervalo (entre x e y) exiba todos número pares:
 ```js
@@ -24,8 +23,7 @@ function pares(x, y) {
 pares(32, 321);
 ```
 ### 3º exercício
-Escreva uma função que verifique se o vetor de habilidades passado possui a habilidade "Javascript"
-e retorna um booleano true/false caso exista ou não.
+Escreva uma função que verifique se o vetor de habilidades passado possui a habilidade "Javascript" e retorna um booleano true/false caso exista ou não.
 ```js
 function temHabilidade(skills) {
 // código aqui
@@ -33,7 +31,8 @@ function temHabilidade(skills) {
 var skills = ["Javascript", "ReactJS", "React Native"];
 temHabilidade(skills); // true ou false
 ```
-Dica: para verificar se um vetor contém um valor, utilize o método indexOf.4o exercício
+Dica: para verificar se um vetor contém um valor, utilize o método indexOf.
+### 4º exercício
 Escreva uma função que dado um total de anos de estudo retorna o quão experiente o usuário é:
 ```js
 function experiencia(anos) {
@@ -60,8 +59,7 @@ habilidades: ["VueJS", "Ruby on Rails", "Elixir"]
 }
 ];
 ```
-Escreva uma função que produza o seguinte resultado:
-O Diego possui as habilidades: Javascript, ReactJS, Redux
-O Gabriel possui as habilidades: VueJS, Ruby on Rails, Elixir
-Dica: Para percorrer um vetor você deve utilizar a sintaxe for...of e para unir valores de um array
-com um separador utilize o join.
+Escreva uma função que produza o seguinte resultado:  
+O Diego possui as habilidades: Javascript, ReactJS, Redux  
+O Gabriel possui as habilidades: VueJS, Ruby on Rails, Elixir  
+Dica: Para percorrer um vetor você deve utilizar a sintaxe for...of e para unir valores de um array com um separador utilize o join.  
