@@ -1,5 +1,5 @@
 # JavaScript Modulo04
-## Desafios/Exercícios do curso de JavaScrip da Rocketseat:
+## Desafios/Exercícios do curso de JavaScript da Rocketseat:
 https://skylab.rocketseat.com.br/journey/starter  
 
 ### 1º Exercícios
