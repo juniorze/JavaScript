@@ -1,0 +1,29 @@
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box; /* Retirar borda quando adiciona pedding */
+  -moz-box-sizing: border-box; /* Retirar borda quando adiciona pedding */
+  box-sizing: border-box; /* Retirar borda quando adiciona pedding */
+  font-family: "GothamBook";
+}
+html,
+body {
+  height: 100%;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+body {
+  text-align: center;
+  background: radial-gradient(#333, #111) no-repeat;
+  display: grid;
+  place-items: center center;
+  font-family: "GothamBook", sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: #fff;
+}
+a {
+  color: #fff;
+  text-decoration: none;
+}
