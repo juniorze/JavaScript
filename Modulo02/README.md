@@ -1,5 +1,5 @@
 # JavaScript Modulo02
-## Desafios/Exercícios do curso de JavaScript da Rocketseat:
+## Desafios/Exercícios do curso de JavaScript da Rocketseat:``
 https://skylab.rocketseat.com.br/journey/starter  
 
 ### 1º Exercícios
@@ -26,8 +26,8 @@ var newColor = getRandomColor(); // #E943F0
 A partir do seguinte vetor:  
 ```js
 var nomes = ["Diego", "Gabriel", "Lucas"];
-```  
-Preencha uma lista ( <ul> ) no HTML com os itens da seguinte forma:  
+````  
+Preencha uma lista "ul" no HTML com os itens da seguinte forma:  
 ● Diego  
 ● Gabriel  
 ● Lucas  
